@@ -13,7 +13,7 @@
 <a href="https://linkedin.com/in/batu%c3%a7etin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="batu%c3%a7etin/" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">CetChat AppStore:</h3>
+<h3 align="center">First App -> 2022 CetChat AppStore:</h3>
 <p align="center">
 <a href="https://apps.apple.com/us/app/cetchat/id6444024155" target="blank"><img align="center" src="https://github.com/batuctn/Cet-Chat-App/blob/main/assets/icon.png" alt="batu%c3%a7etin/" height="40" width="40" /></a>
 </p>
